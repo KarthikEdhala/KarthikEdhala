@@ -97,18 +97,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikEdhala&theme=dark&hide_border=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=KarthikEdhala&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=KarthikEdhala&theme=dark&hide_border=false)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KarthikEdhala&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edhalakarthik)
 [![GitHub](https://img.shields.io/badge/GitHub-black.svg?logo=github&logoColor=white)](https://github.com/KarthikEdhala)
