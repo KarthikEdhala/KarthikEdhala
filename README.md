@@ -1,32 +1,38 @@
 # 💫 Hi 👋, I'm Karthik Edhala
 **Full-Stack Software Engineer | DevOps & Cloud Engineer | AWS Certified**
 
+![AWS DevOps Pro](https://img.shields.io/badge/AWS-DevOps%20Engineer%20Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Developer Associate](https://img.shields.io/badge/AWS-Developer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Best Capstone](https://img.shields.io/badge/Award-Best%20Master’s%20Capstone%202025-blue?style=for-the-badge)
+
 📧 Email me 👉 ✉️ **edhalakarthik05@gmail.com** for collaboration, projects, or opportunities.
 
 ---
 
-- 🔭 **I’m currently working on:**  
+## 👨‍💻 About Me
+
+- 🔭 **Currently working on:**  
   Enterprise-scale full-stack applications, cloud-native microservices, and CI/CD automation
 
-- 🌱 **I’m currently learning:**  
+- 🌱 **Currently learning:**  
   Advanced Kubernetes, SRE practices, system design, and DevSecOps
 
-- 👯 **I’m looking to collaborate on:**  
-  Full-stack apps, microservices, cloud infrastructure, DevOps pipelines, and AI-powered platforms
+- 👯 **Looking to collaborate on:**  
+  Full-stack applications, microservices, cloud infrastructure, DevOps pipelines, and AI-powered platforms
 
-- 🤝 **I’m looking for help with:**  
-  Large-scale distributed systems and performance optimization patterns
+- 🤝 **Looking for help with:**  
+  Large-scale distributed systems and performance optimization
 
 - 💬 **Ask me about:**  
-  Java, JavaScript, TypeScript, Spring Boot, React, Next.js, Node.js, AWS, Docker, Kubernetes, Terraform, CI/CD
+  Full-stack development, microservices, cloud infrastructure, DevOps automation, and system design
 
 - 📫 **How to reach me:**  
   edhalakarthik05@gmail.com
 
-- 👨‍💻 **All of my projects are available at:**  
+- 👨‍💻 **Projects:**  
   https://github.com/KarthikEdhala
 
-- 📄 **Know about my experiences:**  
+- 📄 **Experience & background:**  
   https://linkedin.com/in/edhalakarthik
 
 - ⚡ **Fun fact:**  
@@ -34,15 +40,23 @@
 
 ---
 
+## 🚀 Featured Projects
+
+- **BotNest**  
+  AI-powered multi-tenant chatbot platform built with **Next.js, OpenAI, GraphQL, and PostgreSQL**, reducing live agent workload by 60%.
+
+- **AI Mail Assistant**  
+  Chrome extension with **Java Spring Boot backend** and OpenAI integration for automated, context-aware email drafting.
+
+- **AWS Infrastructure as Code**  
+  Complete AWS infrastructure including **VPC, EC2, EKS, IAM**, provisioned end-to-end using **Terraform**.
+
+---
+
 ## 🐍 Contribution Snake
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KarthikEdhala&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
@@ -57,13 +71,13 @@
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 ### ⚙️ Backend
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Kafka](https://img.shields.io/badge/apache%20kafka-000?style=for-the-badge&logo=apachekafka)
 
@@ -87,6 +101,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikEdhala&theme=dark&hide_border=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=KarthikEdhala&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KarthikEdhala&theme=dark&hide_border=false)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=KarthikEdhala&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
