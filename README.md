@@ -81,6 +81,15 @@
 ![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Kafka](https://img.shields.io/badge/apache%20kafka-000?style=for-the-badge&logo=apachekafka)
 
+### 🤖 AI & Agentic Systems
+![AI Agents](https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-2E7D32?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-0A2540?style=for-the-badge)
+![Vector DBs](https://img.shields.io/badge/Vector%20Databases-003545?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP%20Servers-4A148C?style=for-the-badge)
+
+
 ### ☁️ DevOps & Cloud
 ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
